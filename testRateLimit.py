@@ -2,7 +2,7 @@ import requests
 import time
 
 # Ustawienia testu
-url = 'https://honda.sit.sandis.io/api/security/login'  # adres URL endpoint
+url = 'https://xxxx.xxx.xxxx.xx'  # adres URL endpoint
 liczba_zadan = 30  # liczba zadań do wykonania
 przerwa = 0.5  # czas oczekiwania między zadaniami w sekundach
 
